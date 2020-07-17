@@ -1,1 +1,1 @@
-# TR_inform-tica
+# TR_informatica
